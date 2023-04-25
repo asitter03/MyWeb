@@ -1,0 +1,43 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(72, 68, 68);
+    background-color: rgb(170, 199, 212);
+}
+li{
+    font-size: 14px;
+}
+ul{
+    font-size: 13px;
+}
+h1{
+    color: #000;
+}
+.bold {
+    font-weight: bold;
+}
+a { color: rgb(98, 98, 215);
+text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    /* color: rgb(8, 8, 143); */
+}
+.home {
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/images6/Aesthetic-Nature-Wallpaper-HD-Free-download.jpg);
+    color: rgb(53, 60, 61);
+    font-size: 15px;
+    
+}
+.hh1 {
+    color: rgb(201, 201, 238);
+}
+.am {
+    background-color: rgba(158, 158, 215, 0.637);
+}
+.italics {
+    font-style: italic;
+}
